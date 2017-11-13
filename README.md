@@ -1,0 +1,1 @@
+Empty framework originally created for the Automation Map project, including local copies of JS and CSS libraries for Vue.js, D3, Leaflet.js and jQuery.
